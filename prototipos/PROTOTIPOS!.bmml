@@ -1,0 +1,748 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2252" measuredH="735" mockupW="2246" mockupH="712">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="6" y="23" w="540" h="712" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//web.yanuq.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="48" y="98" w="79" h="67" measuredW="197" measuredH="193" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./logo.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="120" y="127" w="145" h="24" measuredW="290" measuredH="46" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./cocinaenperu1.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::MenuBar" x="42" y="158" w="486" h="29" measuredW="452" measuredH="29" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Todas%20las%20recetas%2C%20Guia%20del%20cocinero%2CClub%20Yanuq%2C%20Registro/inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="42" y="196" w="358" h="331" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="__group__" x="54" y="207" w="99" h="121" measuredW="99" measuredH="121" zOrder="5" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="121" measuredW="100" measuredH="132" zOrder="0" locked="false" isInGroup="16">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>Las%20especiales%0ACocina%20peruana%0ACocina%20light%0ACocina%20para%20dos%0ACocina%20r%E1pida%0AA%20la%20parrilla%0ACocina%20econ%F3mica%0ACocina%20para%20beb%E9s%0ALoncheras</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="17" controlTypeID="__group__" x="54" y="334" w="99" h="91" measuredW="99" measuredH="91" zOrder="6" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="91" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="17">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="19" controlTypeID="__group__" x="54" y="431" w="99" h="87" measuredW="99" measuredH="87" zOrder="7" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="87" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="19">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Image" x="168" y="211" w="217" h="123" measuredW="552" measuredH="255" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./recetasemana_espanol_20120515.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::Link" x="168" y="455" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cocina%20light</text>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Link" x="265" y="455" w="-1" h="-1" measuredW="119" measuredH="19" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cocina%20para%20el%20beb%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Image" x="419" y="196" w="91" h="123" measuredW="169" measuredH="257" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Image" x="419" y="319" w="91" h="123" measuredW="169" measuredH="257" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="419" y="440" w="91" h="123" measuredW="169" measuredH="257" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Image" x="419" y="563" w="91" h="123" measuredW="169" measuredH="257" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="521" y="112" w="-1" h="605" measuredW="16" measuredH="100" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="39" controlTypeID="__group__" x="162" y="363" w="100" h="79" measuredW="100" measuredH="79" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="3" y="22" w="95" h="57" measuredW="95" measuredH="57" zOrder="0" locked="false" isInGroup="39">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="95" h="57" measuredW="207" measuredH="154" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <src>./de%2520la%2520mano%2520con%2520yanuq.jpg</src>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="100" h="-1" measuredW="95" measuredH="22" zOrder="1" locked="false" isInGroup="39">
+          <controlProperties>
+            <align>left</align>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <color>16750848</color>
+            <size>8</size>
+            <text>De%20la%20mano%20con%20Yanuq</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="43" controlTypeID="__group__" x="265" y="363" w="120" h="80" measuredW="120" measuredH="80" zOrder="16" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="120" h="80" measuredW="300" measuredH="233" zOrder="0" locked="false" isInGroup="43">
+          <controlProperties>
+            <size>8</size>
+            <src>./fotoRanking.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="46" y="5" w="74" h="-1" measuredW="54" measuredH="22" zOrder="1" locked="false" isInGroup="43">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <color>16750848</color>
+            <size>8</size>
+            <text>El%20Ranking</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="573" y="23" w="540" h="712" measuredW="450" measuredH="400" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//web.yanuq.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Image" x="615" y="98" w="79" h="67" measuredW="197" measuredH="193" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./logo.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Image" x="687" y="127" w="145" h="24" measuredW="290" measuredH="46" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./cocinaenperu1.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="609" y="196" w="358" h="331" measuredW="100" measuredH="70" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="__group__" x="621" y="207" w="99" h="121" measuredW="99" measuredH="121" zOrder="22" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="121" measuredW="100" measuredH="132" zOrder="0" locked="false" isInGroup="50">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>Las%20especiales%0ACocina%20peruana%0ACocina%20light%0ACocina%20para%20dos%0ACocina%20r%E1pida%0AA%20la%20parrilla%0ACocina%20econ%F3mica%0ACocina%20para%20beb%E9s%0ALoncheras</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="51" controlTypeID="__group__" x="621" y="334" w="99" h="91" measuredW="99" measuredH="91" zOrder="23" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="91" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="51">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="52" controlTypeID="__group__" x="621" y="431" w="99" h="87" measuredW="99" measuredH="87" zOrder="24" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="87" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="52">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Image" x="735" y="211" w="217" h="123" measuredW="552" measuredH="255" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./recetasemana_espanol_20120515.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Link" x="735" y="455" w="-1" h="-1" measuredW="71" measuredH="19" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cocina%20light</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Link" x="832" y="455" w="-1" h="-1" measuredW="119" measuredH="19" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cocina%20para%20el%20beb%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="986" y="196" w="91" h="123" measuredW="169" measuredH="257" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="986" y="319" w="91" h="123" measuredW="169" measuredH="257" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="986" y="440" w="91" h="123" measuredW="169" measuredH="257" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="986" y="563" w="91" h="123" measuredW="169" measuredH="257" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1088" y="112" w="-1" h="605" measuredW="16" measuredH="100" zOrder="32" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="__group__" x="832" y="348" w="127" h="95" measuredW="127" measuredH="95" zOrder="33" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="127" h="95" measuredW="300" measuredH="233" zOrder="0" locked="false" isInGroup="61">
+          <controlProperties>
+            <size>8</size>
+            <src>./fotoRanking.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="49" y="6" w="78" h="-1" measuredW="54" measuredH="22" zOrder="1" locked="false" isInGroup="61">
+          <controlProperties>
+            <backgroundAlpha>1</backgroundAlpha>
+            <color>16750848</color>
+            <size>8</size>
+            <text>El%20Ranking</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="62" controlTypeID="__group__" x="727" y="348" w="102" h="94" measuredW="102" measuredH="94" zOrder="34" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="3" y="26" w="97" h="68" measuredW="97" measuredH="68" zOrder="0" locked="false" isInGroup="62">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="0" y="0" w="97" h="68" measuredW="207" measuredH="154" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <src>./de%2520la%2520mano%2520con%2520yanuq.jpg</src>
+                <text/>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="0" w="102" h="-1" measuredW="95" measuredH="22" zOrder="1" locked="false" isInGroup="62">
+          <controlProperties>
+            <align>left</align>
+            <backgroundAlpha>0.75</backgroundAlpha>
+            <color>16750848</color>
+            <size>8</size>
+            <text>De%20la%20mano%20con%20Yanuq</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="69" controlTypeID="__group__" x="609" y="158" w="479" h="214" measuredW="479" measuredH="214" zOrder="35" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="0" w="479" h="29" measuredW="452" measuredH="29" zOrder="0" locked="false" isInGroup="69">
+          <controlProperties>
+            <text>Todas%20las%20recetas%2C%20Guia%20del%20cocinero%2CClub%20Yanuq%2C%20Registro/inicio</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="4" w="301" h="210" measuredW="301" measuredH="210" zOrder="1" locked="false" isInGroup="69">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::ComboBox" x="0" y="0" w="133" h="-1" measuredW="137" measuredH="24" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Todas%20las%20recetas</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="27" w="301" h="183" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="1"/>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="0" y="27" w="159" h="183" measuredW="100" measuredH="198" zOrder="2" locked="false" isInGroup="1">
+              <controlProperties>
+                <rowHeight>16</rowHeight>
+                <selectedIndex>0</selectedIndex>
+                <size>8</size>
+                <text>Licores%20y%20bebidas%0AEntremeses%20y%20emparedados%0ASopas%0ACarnes%20y%20aves%0APescados%20y%20ali%F1os%0AVerduras%2Cmenestras%2Ctub%E9rculos%20y%20huevos%0APasteles%2Csouffles%2Cmousses%20y%20otros%0APastas%2Ccrepes%20y%20pizzas%20%0AArroz%0AReposter%EDa%20y%20panaderia%0Asalsas%0A%20</text>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="165" y="36" w="127" h="111" measuredW="265" measuredH="160" zOrder="3" locked="false" isInGroup="1">
+              <controlProperties>
+                <src>./Alegrias%2520para%2520mama.jpg</src>
+                <text/>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="165" y="147" w="97" h="-1" measuredW="87" measuredH="22" zOrder="4" locked="false" isInGroup="1">
+              <controlProperties>
+                <size>8</size>
+                <text>Alegrias%20para%20mama</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1149" y="23" w="540" h="712" measuredW="450" measuredH="400" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//web.yanuq.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="1170" y="105" w="79" h="67" measuredW="197" measuredH="193" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./logo.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="1242" y="134" w="145" h="24" measuredW="290" measuredH="46" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./cocinaenperu1.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::MenuBar" x="1164" y="165" w="483" h="29" measuredW="452" measuredH="29" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Todas%20las%20recetas%2C%20Guia%20del%20cocinero%2CClub%20Yanuq%2C%20Registro/inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Canvas" x="1164" y="199" w="358" h="324" measuredW="100" measuredH="70" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="__group__" x="1176" y="214" w="99" h="121" measuredW="99" measuredH="121" zOrder="41" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="121" measuredW="100" measuredH="132" zOrder="0" locked="false" isInGroup="75">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>Las%20especiales%0ACocina%20peruana%0ACocina%20light%0ACocina%20para%20dos%0ACocina%20r%E1pida%0AA%20la%20parrilla%0ACocina%20econ%F3mica%0ACocina%20para%20beb%E9s%0ALoncheras</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="76" controlTypeID="__group__" x="1176" y="341" w="99" h="91" measuredW="99" measuredH="91" zOrder="42" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="91" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="76">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="77" controlTypeID="__group__" x="1176" y="438" w="99" h="87" measuredW="99" measuredH="87" zOrder="43" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="87" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="77">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Image" x="1541" y="203" w="91" h="123" measuredW="169" measuredH="257" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="1541" y="326" w="91" h="123" measuredW="169" measuredH="257" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Image" x="1541" y="447" w="91" h="123" measuredW="169" measuredH="257" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Image" x="1541" y="570" w="91" h="123" measuredW="169" measuredH="257" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="1658" y="119" w="-1" h="605" measuredW="16" measuredH="100" zOrder="48" locked="false" isInGroup="-1"/>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::LinkBar" x="1381" y="527" w="-1" h="-1" measuredW="134" measuredH="14" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>1%2C2%2C3%2C4%2C%20%20%20%20siguiente</text>
+      </controlProperties>
+    </control>
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="1712" y="23" w="540" h="712" measuredW="450" measuredH="400" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>A%20Web%20Page%0Ahttp%3A//web.yanuq.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Image" x="1733" y="105" w="79" h="67" measuredW="197" measuredH="193" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./logo.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Image" x="1805" y="134" w="145" h="24" measuredW="290" measuredH="46" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./cocinaenperu1.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::MenuBar" x="1727" y="165" w="483" h="29" measuredW="452" measuredH="29" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Todas%20las%20recetas%2C%20Guia%20del%20cocinero%2CClub%20Yanuq%2C%20Registro/inicio</text>
+      </controlProperties>
+    </control>
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Canvas" x="1727" y="203" w="358" h="338" measuredW="100" measuredH="70" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="113" controlTypeID="__group__" x="1739" y="214" w="99" h="121" measuredW="99" measuredH="121" zOrder="58" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="121" measuredW="100" measuredH="132" zOrder="0" locked="false" isInGroup="113">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>Las%20especiales%0ACocina%20peruana%0ACocina%20light%0ACocina%20para%20dos%0ACocina%20r%E1pida%0AA%20la%20parrilla%0ACocina%20econ%F3mica%0ACocina%20para%20beb%E9s%0ALoncheras</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="114" controlTypeID="__group__" x="1739" y="341" w="99" h="91" measuredW="99" measuredH="91" zOrder="59" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="91" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="114">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="115" controlTypeID="__group__" x="1739" y="438" w="99" h="87" measuredW="99" measuredH="87" zOrder="60" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::List" x="0" y="0" w="99" h="87" measuredW="100" measuredH="126" zOrder="0" locked="false" isInGroup="115">
+          <controlProperties>
+            <alternateRowColor>16777215</alternateRowColor>
+            <borderStyle>none</borderStyle>
+            <hasHeader>true</hasHeader>
+            <rowHeight>16</rowHeight>
+            <size>8</size>
+            <text>El%20ranking%0AArroz%20con%20pollo%0APescado%20frito%0AChurros%0ARocoto%20relleno%0AEnsalada%20caprese</text>
+            <verticalScrollbar>false</verticalScrollbar>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Image" x="2104" y="203" w="91" h="123" measuredW="169" measuredH="257" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Image" x="2104" y="326" w="91" h="123" measuredW="169" measuredH="257" zOrder="62" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::Image" x="2104" y="447" w="91" h="123" measuredW="169" measuredH="257" zOrder="63" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Image" x="2104" y="570" w="91" h="123" measuredW="169" measuredH="257" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./bannerLaive.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="120" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="2221" y="119" w="-1" h="605" measuredW="16" measuredH="100" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::TabBar" x="1846" y="214" w="228" h="319" measuredW="295" measuredH="100" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>0</selectedIndex>
+        <size>8</size>
+        <text>Receta%2C%20Evaluaciones%2C%20Imprimir%2CGuardar%2CEnviar%20a%20un%20amigo</text>
+      </controlProperties>
+    </control>
+    <control controlID="126" controlTypeID="com.balsamiq.mockups::Image" x="1852" y="260" w="109" h="103" measuredW="245" measuredH="202" zOrder="67" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./receta-aguaymanto-sour-n-1%2520ji.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="130" controlTypeID="__group__" x="1961" y="292" w="113" h="47" measuredW="113" measuredH="47" zOrder="68" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TextArea" x="0" y="0" w="113" h="39" measuredW="200" measuredH="140" zOrder="0" locked="false" isInGroup="130">
+          <controlProperties>
+            <borderColor>16777215</borderColor>
+            <size>10</size>
+            <text>Receta%0AAguaymanto%20sour%20n%B01</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="9" y="31" w="36" h="-1" measuredW="35" measuredH="16" zOrder="1" locked="false" isInGroup="130">
+          <controlProperties>
+            <size>8</size>
+            <text>Porciones</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="131" controlTypeID="com.balsamiq.mockups::Image" x="1852" y="367" w="31" h="25" measuredW="245" measuredH="202" zOrder="69" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./receta-aguaymanto-sour-n-1%2520ji.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="132" controlTypeID="com.balsamiq.mockups::Label" x="1846" y="385" w="228" h="-1" measuredW="234" measuredH="21" zOrder="70" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>---------------------------------------------------------------------------------</text>
+      </controlProperties>
+    </control>
+    <control controlID="133" controlTypeID="com.balsamiq.mockups::Label" x="1848" y="460" w="228" h="-1" measuredW="238" measuredH="21" zOrder="71" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>------------------------------------------------------------------------------------</text>
+      </controlProperties>
+    </control>
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="1850" y="391" w="-1" h="-1" measuredW="75" measuredH="21" zOrder="73" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingredientes</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::Label" x="1850" y="468" w="-1" h="-1" measuredW="70" measuredH="21" zOrder="72" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Preparaci%F3n</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::TextArea" x="1849" y="407" w="176" h="53" measuredW="200" measuredH="140" zOrder="74" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <size>8</size>
+        <text>2%20oz%20de%20pisco%20puro%0A1%20oz%20de%20jarabe%20de%20goma%0A1%20oz%20de%20jugo%20de%20aguaymanto%20%28capul%ED%29%0AClara%20de%20huevo%0A5%20cubos%20de%20hielo</text>
+      </controlProperties>
+    </control>
+    <control controlID="142" controlTypeID="com.balsamiq.mockups::TextArea" x="1848" y="484" w="224" h="41" measuredW="200" measuredH="140" zOrder="75" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0</backgroundAlpha>
+        <borderColor>16777215</borderColor>
+        <size>8</size>
+        <text>Mezclar%20el%20pisco%2C%20jarabe%20de%20goma%2C%20jugo%20de%20aguaymanto%2C%20clara%20de%20huevo%20y%20los%20cubos%20de%20hielo.%20Licuar%20por%2030%20segundos.%20Servir%20en%20una%20copa%20fr%EDa.</text>
+      </controlProperties>
+    </control>
+    <control controlID="145" controlTypeID="com.balsamiq.mockups::LinkBar" x="1366" y="238" w="-1" h="-1" measuredW="134" measuredH="14" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>8</size>
+        <text>1%2C2%2C3%2C4%2C%20%20%20%20siguiente</text>
+      </controlProperties>
+    </control>
+    <control controlID="149" controlTypeID="com.balsamiq.mockups::Image" x="1290" y="354" w="44" h="37" measuredW="77" measuredH="79" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="152" controlTypeID="__group__" x="1281" y="212" w="230" h="306" measuredW="230" measuredH="306" zOrder="51" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::TabBar" x="0" y="0" w="230" h="306" measuredW="223" measuredH="100" zOrder="0" locked="false" isInGroup="152">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <size>9</size>
+            <text>Todas%2C%20Alcoholicos%2C%20No%20alcoholicos</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Menu" x="36" y="38" w="188" h="-1" measuredW="150" measuredH="255" zOrder="1" locked="false" isInGroup="152">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Aguaymato%20sour%20n%B01%0AMezclar%20abc...%0A---%0AAguaymato%20sour%20n%B02%0AMezclar%20el%20pisco%2C%20jarabe%20de%20goma...%0A%3D%0AAlexander%0AMezclar%20todos%20los%20ingredientes%2C%20agitando%0A---%0ABatido%20de%20fresas%20y%20pl%E1tano%0ALicuar%20todos%20los%20ingredientes%20hasta%20...%0A---%0ABatido%20de%20pi%F1a%20y%20naranja%0ALicuar%20la%20pi%F1a%2C%20el%20hielo%2C%20el%20...%0A%20%0A%20%0A%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="7" y="47" w="44" h="37" measuredW="245" measuredH="202" zOrder="2" locked="false" isInGroup="152">
+          <controlProperties>
+            <src>./receta-aguaymanto-sour-n-1%2520ji.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="7" y="92" w="44" h="37" measuredW="245" measuredH="202" zOrder="3" locked="false" isInGroup="152">
+          <controlProperties>
+            <src>./receta-aguaymanto-sour-n-1%2520ji.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="7" y="232" w="44" h="37" measuredW="256" measuredH="198" zOrder="4" locked="false" isInGroup="152">
+          <controlProperties>
+            <src>./bati%2520pi%25c3%25b1a%2520y%2520naranj.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="7" y="185" w="44" h="37" measuredW="177" measuredH="201" zOrder="5" locked="false" isInGroup="152">
+          <controlProperties>
+            <src>./batido%2520fresa%2520y%2520plata.jpg</src>
+            <text/>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="154" controlTypeID="com.balsamiq.mockups::Label" x="190" y="235" w="-1" h="-1" measuredW="157" measuredH="78" zOrder="76" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <size>40</size>
+        <text>ZONA%20A</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::Label" x="162" y="363" w="-1" h="-1" measuredW="92" measuredH="46" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2575891</color>
+        <size>24</size>
+        <text>ZONA%20B</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::Label" x="265" y="368" w="-1" h="-1" measuredW="112" measuredH="55" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <size>28</size>
+        <text>ZONA%20C</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::Label" x="400" y="284" w="-1" h="-1" measuredW="36" measuredH="107" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>28</size>
+        <text>ZONA%20D</text>
+        <textOrientation>up</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Label" x="464" y="214" w="42" h="-1" measuredW="45" measuredH="37" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>28</size>
+        <text>%20D1</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Label" x="464" y="328" w="42" h="-1" measuredW="52" measuredH="39" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>28</size>
+        <text>%20D2</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::Label" x="464" y="468" w="42" h="-1" measuredW="51" measuredH="39" zOrder="82" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>28</size>
+        <text>%20D3</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::Label" x="458" y="570" w="42" h="-1" measuredW="53" measuredH="39" zOrder="83" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16776960</color>
+        <size>28</size>
+        <text>%20D4</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Label" x="784" y="230" w="101" h="-1" measuredW="109" measuredH="54" zOrder="84" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16711935</color>
+        <size>28</size>
+        <text>ZONA%20E</text>
+        <textOrientation>slanted</textOrientation>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
